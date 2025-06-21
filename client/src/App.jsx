@@ -1,8 +1,9 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 import Reflections from "./pages/Reflections"; // 👈 Make sure path is correct
-import Login from "./pages/login.jsx";       // ✅ lowercase
-import Register from "./pages/register.jsx"; // ✅ lowercase
+import Login from "./pages/Login.jsx"; // ✅ correct (capital "L")
+  // ✅ lowercase
+import Register from "./pages/Register.jsx"; // ✅ lowercase
 import Dashboard from "./pages/Dashboard.jsx"; // ✅ lowercase
 
 
